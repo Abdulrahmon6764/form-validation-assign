@@ -1,0 +1,9 @@
+*{
+    padding: none;
+    margin: none;
+    list-style-type: none;
+}
+#demo1{
+    text-align: center;
+    color: blue;
+}
